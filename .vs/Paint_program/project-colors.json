@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "55319fa8-7327-455c-98f3-e7d648ff89cd": {
+      "ProjectGuid": "55319fa8-7327-455c-98f3-e7d648ff89cd",
+      "DisplayName": "Paint_program",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
